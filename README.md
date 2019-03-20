@@ -1,5 +1,5 @@
 
-[![Build Status](https://nzarrari.visualstudio.com/ECommerceApp/_apis/build/status/nzarrari.ContosoAir?branchName=master)](https://nzarrari.visualstudio.com/ECommerceApp/_build/latest?definitionId=77&branchName=master)
+[![Build Status](https://nzarrari.visualstudio.com/ContosoAir/_apis/build/status/nzarrari.ContosoAir%20(1)?branchName=master)](https://nzarrari.visualstudio.com/ContosoAir/_build/latest?definitionId=79&branchName=master)
 
 # Microsoft.Github CI Demo
 
